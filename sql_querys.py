@@ -9,7 +9,7 @@ TASK_1_QUERY = """SELECT flight_no, scheduled_arrival - scheduled_departure as d
 #  PG0233    | 00:25:00
 #  PG0235    | 00:25:00
 #  PG0234    | 00:25:00
-
+# new comment
 
 # INFO
 # Вывести топ 3 рейса по числу упоминаний в таблице flights
